@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Iza!</h1>
-<h3 align="center">iOS developer. Passionate about building tech that makes a difference.</h3>
+<h1 align="left">Hi 👋, I'm Iza!</h1>
+<h3 align="left">iOS developer. Passionate about building tech that makes a difference.</h3>
 
 - 📫 How to reach me **izadoraoamontenegro@gmail.com**
 
