@@ -12,6 +12,6 @@
 <h3 align="left">Skills:</h3>
 <p align="left">
 <p align="center">
-  <img src="tecnologias.png" alt="Tecnologias que uso" width="100%" />
+  <img src="linhatecnologias.png" alt="Tecnologias que uso" width="100%" />
 </p>
 
