@@ -7,6 +7,12 @@
 <a href="https://discord.gg/izamontenegro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="izamontenegro" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izamontenegro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
 <h3 align="left">Skills:</h3>
 <p align="left">
 <p align="center">
