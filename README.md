@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Lalyy!</h1>
+<h1 align="left">Hi 👋, I'm Iza!</h1>
 <h3 align="left">iOS developer. Passionate about building tech that makes a difference.</h3>
 
 <h3 align="left">Connect with me:</h3>
