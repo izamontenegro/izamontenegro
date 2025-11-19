@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600" height="220" viewBox="0 0 1600 220" preserveAspectRatio="none">
+
+  <defs>
+    <!-- Dark purple/indigo background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0212"/>
+      <stop offset="100%" stop-color="#160225"/>
+    </linearGradient>
+
+    <!-- Gradient for blobs (animated, pink→purple→magenta) -->
+    <radialGradient id="blobGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF8CE6" stop-opacity="0.7">
+        <animate attributeName="stop-color"
+                 values="#FF8CE6;#C084FC;#FF4FB5;#B794F4;#FF8CE6"
+                 dur="15s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#FF8CE6" stop-opacity="0">
+        <animate attributeName="stop-color"
+                 values="#FF8CE6;#C084FC;#FF4FB5;#B794F4;#FF8CE6"
+                 dur="15s" repeatCount="indefinite" />
+      </stop>
+    </radialGradient>
+
+    <!-- Heavy blur for soft blob glow -->
+    <filter id="superBlur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="90" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" />
+
+  <!-- Animated blurred blobs -->
+  <g filter="url(#superBlur)" opacity="0.85">
+
+    <!-- Left blob -->
+    <circle cx="260" cy="140" r="240" fill="url(#blobGrad)">
+      <animate attributeName="cx" values="180;280;500;180" dur="28s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="150;120;180;150" dur="31s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Center blob -->
+    <circle cx="900" cy="110" r="300" fill="url(#blobGrad)" opacity="0.9">
+      <animate attributeName="cx" values="900;1150;700;900" dur="38s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="110;150;80;110" dur="34s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Right blob -->
+    <circle cx="1450" cy="130" r="260" fill="url(#blobGrad)">
+      <animate attributeName="cx" values="1450;1250;1650;1450" dur="34s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="130;170;100;130" dur="30s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Title text -->
+  <g fill="#ffffff" font-family="Inter, Poppins, system-ui"
+     font-weight="600" font-size="38" text-anchor="middle">
+
+    <!-- shadow -->
+    <text x="800" y="128" fill="rgba(0,0,0,0.35)" dy="3">✨ Hi, I'm Gil</text>
+    <text x="800" y="126">✨ Hi, I'm Gil</text>
+  </g>
+
+</svg>
