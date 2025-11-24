@@ -32,19 +32,9 @@
 
 Há dois anos mergulho no desenvolvimento iOS, unindo o desenvolvimento com minha paixão por aprender, ensinar e transformar ideias em experiências úteis.
 
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=izamontenegro&theme=light&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<!--
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izamontenegro&layout=compact&theme=default&hide_border=false" alt="Top Langs" />
-</p>
--->
-
 ---
 
-## 🌸 Onde me encontrar
+## 💬 Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/izadora-montenegro/">
@@ -57,6 +47,20 @@ Há dois anos mergulho no desenvolvimento iOS, unindo o desenvolvimento com minh
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+---
+
+
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=izamontenegro&theme=light&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!--
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izamontenegro&layout=compact&theme=default&hide_border=false" alt="Top Langs" />
+</p>
+-->
+
 
 
 
