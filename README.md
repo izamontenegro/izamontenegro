@@ -17,7 +17,7 @@ Feel free to check out my projects and connect with me!
   <a href="https://www.linkedin.com/in/raissa-parente-70bb25162/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/raissaparente" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
+  <a href="https://github.com/izamontenegro" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:raissabparente@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
@@ -26,8 +26,9 @@ Feel free to check out my projects and connect with me!
 </p>
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=raissaparente&theme=dark&hide_border=false)<br/>
-<!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raissaparente&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) --!>
+![](https://nirzak-streak-stats.vercel.app/?user=izamontenegro&theme=light&hide_border=false)<br/>
+<!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=izamontenegro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) --!>
 
 </div>
+
 
