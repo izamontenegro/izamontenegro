@@ -51,16 +51,6 @@ Há dois anos mergulho no desenvolvimento iOS, unindo o desenvolvimento com minh
 ---
 
 
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=izamontenegro&theme=light&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<!--
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izamontenegro&layout=compact&theme=default&hide_border=false" alt="Top Langs" />
-</p>
--->
-
 
 
 
