@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="350" viewBox="0 0 1600 350">
+  <defs>
+    <linearGradient id="grad-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e9d5ff"/>
+      <stop offset="50%" stop-color="#bbf7d0"/>
+      <stop offset="100%" stop-color="#fecdd3"/>
+    </linearGradient>
+
+    <linearGradient id="pill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: -apple-system, system-ui, -system-ui, "SF Pro Rounded", "Segoe UI", sans-serif;
+        font-weight: 700;
+      }
+      .subtitle {
+        font-family: -apple-system, system-ui, -system-ui, "SF Pro Rounded", "Segoe UI", sans-serif;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="350" rx="32" fill="url(#grad-bg)"/>
+
+  <!-- blobs decorativos -->
+  <circle cx="220" cy="80" r="90" fill="rgba(255,255,255,0.25)"/>
+  <circle cx="1450" cy="270" r="120" fill="rgba(255,255,255,0.20)"/>
+  <circle cx="1350" cy="80" r="70" fill="rgba(255,255,255,0.22)"/>
+
+  <!-- texto -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+        class="title" font-size="58" fill="#f9fafb">
+    Izadora Montenegro
+  </text>
+
+  <text x="50%" y="65%" text-anchor="middle" class="subtitle"
+        font-size="26" fill="#f9fafb">
+    iOS Developer · Swift · SwiftUI · SwiftData
+  </text>
+
+  <!-- pill -->
+  <rect x="50%" y="74%" rx="999" ry="999" width="360" height="40"
+        transform="translate(-180,0)" fill="rgba(15,23,42,0.15)"/>
+  <text x="50%" y="80%" text-anchor="middle" class="subtitle"
+        font-size="18" fill="#f9fafb">
+    Apple Developer Academy · IFCE Fortaleza
+  </text>
+</svg>
