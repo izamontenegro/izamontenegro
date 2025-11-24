@@ -4,7 +4,7 @@
 
 ---
 
-# 🌿 Izadora Montenegro
+# 🍏 Izadora Montenegro
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-FF7043?style=flat&logo=swift&logoColor=white" />
@@ -18,20 +18,20 @@
   <img src="https://img.shields.io/badge/App%20Store-2288C3?style=flat&logo=appstore&logoColor=white" />
 </p>
 
-🍎 Student at Apple Developer Academy — Fortaleza  
-🎓 Engenharia da Computação — IFCE Fortaleza  
-📱 iOS Mobile Developer (Swift, SwiftUI, UIKit)  
-🎨 Mobile UI/UX Designer
+🎓 Engenharia da Computação — IFCE Fortaleza
+📱 iOS Developer (Swift, SwiftUI, UIKit)
+🎨 Entusiasta de UX/UI Design
+👩🏽‍💻 Apple Developer Academy — Fortaleza
+🏆 Vencedora do Swift Student Challenge 2025
 
-Atualmente estou focada em desenvolvimento iOS, trabalhando com **SwiftUI, UIKit, SwiftData e CoreData**, além de ter experiência com **UI/UX para apps móveis**.  
-Gosto de construir interfaces claras, fluxos diretos e experiências que façam sentido de verdade para quem está usando.
+Há dois anos mergulho no desenvolvimento iOS, unindo Swift, UIKit e SwiftUI com minha paixão por ensinar, aprender e transformar ideias em experiências úteis.
 
-<p align="center">
+<p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=izamontenegro&theme=light&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <!--
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izamontenegro&layout=compact&theme=default&hide_border=false" alt="Top Langs" />
 </p>
 -->
@@ -51,3 +51,4 @@ Gosto de construir interfaces claras, fluxos diretos e experiências que façam 
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
