@@ -19,9 +19,13 @@
 </p>
 
 🎓 Engenharia da Computação — IFCE Fortaleza
+
 📱 iOS Developer (Swift, SwiftUI, UIKit)
+
 🎨 Entusiasta de UX/UI Design
+
 👩🏽‍💻 Apple Developer Academy — Fortaleza
+
 🏆 Vencedora do Swift Student Challenge 2025
 
 Há dois anos mergulho no desenvolvimento iOS, unindo Swift, UIKit e SwiftUI com minha paixão por ensinar, aprender e transformar ideias em experiências úteis.
@@ -51,4 +55,5 @@ Há dois anos mergulho no desenvolvimento iOS, unindo Swift, UIKit e SwiftUI com
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
 
