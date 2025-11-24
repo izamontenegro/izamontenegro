@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="350" viewBox="0 0 1600 350">
   <defs>
-    <!-- Gradiente de fundo -->
     <linearGradient id="grad-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#6b5df6"/>   <!-- azul/lilás escuro -->
       <stop offset="50%" stop-color="#8b5cf6"/>  <!-- roxo forte -->
@@ -23,15 +22,12 @@
     </style>
   </defs>
 
-  <!-- Fundo -->
   <rect x="0" y="0" width="1600" height="350" rx="32" fill="url(#grad-bg)"/>
 
-  <!-- Blobs roxos translúcidos -->
   <circle cx="240" cy="90" r="110" fill="#4c1d95" fill-opacity="0.25"/>
   <circle cx="1420" cy="260" r="150" fill="#4c1d95" fill-opacity="0.20"/>
   <circle cx="1320" cy="70" r="85" fill="#4c1d95" fill-opacity="0.22"/>
 
-  <!-- Elementos de código decorativos -->
   <text x="200" y="260" class="code-decor" font-size="52" fill="#111827" fill-opacity="0.25">
     { }
   </text>
@@ -44,7 +40,6 @@
     let idea = code
   </text>
 
-  <!-- Texto principal -->
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
         class="title" font-size="58" fill="#ffffff">
     Izadora Montenegro
