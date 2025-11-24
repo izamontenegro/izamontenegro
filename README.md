@@ -37,7 +37,7 @@ Há dois anos mergulho no desenvolvimento iOS, unindo o desenvolvimento com minh
 ## 💬 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/izadora-montenegro/">
+  <a href="https://www.linkedin.com/in/izadoramontenegro/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:izadoraoamontenegro@gmail.com">
@@ -60,6 +60,7 @@ Há dois anos mergulho no desenvolvimento iOS, unindo o desenvolvimento com minh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izamontenegro&layout=compact&theme=default&hide_border=false" alt="Top Langs" />
 </p>
 -->
+
 
 
 
