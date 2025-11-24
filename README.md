@@ -30,7 +30,7 @@
 
 📚 Mentora de desenvolvimento mobile
 
-Há dois anos mergulho no desenvolvimento iOS, unindo Swift, UIKit e SwiftUI com minha paixão por ensinar, aprender e transformar ideias em experiências úteis.
+Há dois anos mergulho no desenvolvimento iOS, unindo o desenvolvimento com minha paixão por aprender, ensinar e transformar ideias em experiências úteis.
 
 <p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=izamontenegro&theme=light&hide_border=false" alt="GitHub Streak" />
@@ -57,6 +57,7 @@ Há dois anos mergulho no desenvolvimento iOS, unindo Swift, UIKit e SwiftUI com
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
 
 
 
