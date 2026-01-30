@@ -20,17 +20,15 @@
 
 🎓 Engenharia da Computação — IFCE Fortaleza
 
-📱 iOS Developer
+📱 Desenvolvedora Web e Mobile
 
 🎨 Entusiasta de UX/UI Design
 
-👩🏽‍💻 Apple Developer Academy — Fortaleza
+👩🏽‍💻 Alumni Apple Developer Academy — Fortaleza
 
 🏆 Vencedora do Swift Student Challenge 2025
 
 📚 Mentora de desenvolvimento mobile
-
-Há dois anos mergulho no desenvolvimento iOS, unindo o desenvolvimento com minha paixão por aprender, ensinar e transformar ideias em experiências úteis.
 
 ---
 
@@ -49,6 +47,7 @@ Há dois anos mergulho no desenvolvimento iOS, unindo o desenvolvimento com minh
 </p>
 
 ---
+
 
 
 
