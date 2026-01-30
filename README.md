@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/API%20REST-412781?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-FF4394?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/App%20Store-2288C3?style=flat&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white" />
 </p>
 
 🎓 Engenharia da Computação — IFCE Fortaleza
@@ -44,6 +50,7 @@
 </p>
 
 ---
+
 
 
 
