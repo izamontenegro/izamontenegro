@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./cover.svg" width="100%" alt="Header Izadora Montenegro" />
-</p>
 
 ---
 
@@ -47,6 +44,7 @@
 </p>
 
 ---
+
 
 
 
